@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/instrucciones"
+        android:alphabeticShortcut="p"
+        android:numericShortcut="1"
+        android:orderInCategory="100"
+        android:title="Instrucciones"></item>
+
+    <item android:id="@+id/dedicatoria"
+        android:alphabeticShortcut="p"
+        android:numericShortcut="1"
+        android:orderInCategory="100"
+        android:title="Dedicatoria cursi"></item>
+
+
+</menu>
